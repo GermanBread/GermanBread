@@ -4,6 +4,4 @@ Some guy who likes C#, bash and HTML/CSS/JS. Recently I've been getting my hands
 
 I use Linux as my daily driver OS.
 
-## Cool stuff
-
-[Visit my homepage!](https://germanbread.github.io/)
+## [Visit my homepage!](https://germanbread.github.io/)
