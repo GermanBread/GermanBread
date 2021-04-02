@@ -6,4 +6,4 @@ I use Linux as my daily driver OS.
 
 ## [Visit my homepage!](https://germanbread.github.io/)
 
-[e](https://cdn.discordapp.com/attachments/184821797307285504/824377055999295548/sponchbub.mp4)
+<iframe src="https://germanbread.github.io"></iframe>
