@@ -1,7 +1,7 @@
-## Who am I?
+<img align="center" width="100%" alt="nothing to see here" src="https://media.discordapp.net/attachments/184821797307285504/811732701765697586/image0-405.gif">
 
-Some guy who likes C#, bash and HTML/CSS/JS. Recently I've been getting my hands dirty with C++ and Java.
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=GermanBread&theme=dark" />
 
-I use Linux as my daily driver OS.
+Btw I love Temple OS.
 
-## [Visit my homepage!](https://germanbread.github.io/)
+# [Now visit my homepage ...or else...](https://germanbread.github.io/)
