@@ -4,7 +4,8 @@
 
 Have a nice day
 
-<div>
-  <img align="left" width="45%" alt=":D" src="https://media.discordapp.net/attachments/696515024746709006/827171393057587200/caption-1.gif">
-  <img align="right" width="45%" alt=";D" src="https://media.discordapp.net/attachments/770244707551936532/829330456113709076/caption-2.gif">
-</div>
+Me enjoying vacation :D
+<img alt=":D" src="caption-1.gif">
+
+Me enjoying my drink ;D
+<img alt=";D" src="caption-2.gif">
