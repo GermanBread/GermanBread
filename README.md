@@ -7,5 +7,5 @@
 <p>Me enjoying vacation :D</p>
 <img alt=":D" src="caption-1.gif">
 
-<p>Me enjoying my drink ;D</p>
+<p>Me enjoying my music ;D</p>
 <img alt=";D" src="caption-2.gif">
