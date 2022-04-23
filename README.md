@@ -2,10 +2,10 @@
 
 # [Visit my homepage ...or else...](https://germanbread.github.io/)
 
-Have a nice day
+<h2>Have a nice day</h2>
 
-Me enjoying vacation :D
+<p>Me enjoying vacation :D</p>
 <img alt=":D" src="caption-1.gif">
 
-Me enjoying my drink ;D
+<p>Me enjoying my drink ;D</p>
 <img alt=";D" src="caption-2.gif">
