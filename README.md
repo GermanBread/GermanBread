@@ -9,3 +9,6 @@
 
 <p>Me enjoying my music ;D</p>
 <img alt=";D" src="caption-2.gif">
+
+<p>Visits to this profile</p>
+<img src="https://count.getloli.com/get/@:germanbread_count?theme=gelbooru" alt="Moe counter goes here" />
