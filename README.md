@@ -1,15 +1,22 @@
-<h2>Hello there</h2>
-<img alt=":D" src="caption-1.gif">
+# L if u don't visit https://germanbread.github.io/
 
-# [Visit my homepage ...or else...](https://germanbread.github.io/)
+| uhh | idk | lol |
+| :-- | :-: | --: |
+| I got accepted at | [Fraport](https://www.fraport.com) | ig |
 
-<h2>Have a nice day</h2>
-
-<p>Me enjoying my music ;D</p>
-<img alt=";D" src="caption-2.gif">
-
+<table>
+  <tr>
+    <td><img alt=":D" src="caption-1.gif"></td>
+    <td><img alt=";D" src="caption-2.gif"></td>
+  </tr>
+<table>
+  
 <p>Epic stats</p>
 <img align="center" width="100%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=GermanBread&theme=dark" />
 
-<p>Visits to this profile</p>
-<img src="https://count.getloli.com/get/@:germanbreadcount?theme=gelbooru" alt="Moe counter goes in here" />
+<p>Visits to this profile (I had to reset it, lol)</p>
+<img src="https://count.getloli.com/get/@:germanbreadcountbutnewbecausesomeoneabusedit?theme=gelbooru" alt="Moe counter goes in here" />
+
+<h3>forged in hell 🔥💞💅</h3>
+
+🏳️‍🌈🏳‍⚧ <- Did you know that these people deserve equal rights?
