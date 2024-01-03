@@ -1,8 +1,6 @@
 # L if u don't visit https://germanbread.github.io/
 
-| uhh | idk | lol |
-| :-- | :-: | --: |
-| I got accepted at | [Fraport](https://www.fraport.com) | ig |
+I work at at [Fraport](https://www.fraport.com)!
 
 <table>
   <tr>
@@ -11,12 +9,11 @@
   </tr>
 <table>
   
-<p>Epic stats</p>
-<img align="center" width="100%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=GermanBread&theme=dark" />
+<img alt="Epic GitHub stats. Yes I know you are reading the alt text, have a lovely day!" align="center" width="100%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=GermanBread&theme=dark" />
 
-<p>Visits to this profile (I had to reset it, lol)</p>
-<img src="https://count.getloli.com/get/@:germanbreadcountbutnewbecausesomeoneabusedit?theme=gelbooru" alt="Moe counter goes in here" />
+<p>Visits to this profile</p>
+<img src="https://count.getloli.com/get/@:germanbreadcountagainiwanttoresetit?theme=gelbooru" alt="View counter here, but you probably can't see it for whatever reason." />
 
 <h3>forged in hell 🔥💞💅</h3>
 
-🏳️‍🌈🏳‍⚧ <- Did you know that these people deserve equal rights?
+Please do not use my software unless you support (or at the very least recognise) LGBTQ+ rights.
