@@ -1,14 +1,9 @@
-# L if u don't visit https://germanbread.github.io/
+# LGBT rights or fuck off 🏳️‍🌈
 
-<table>
-  <tr>
-    <td><img alt=":D" src="caption-1.gif" /></td>
-    <td><img alt=";D" src="caption-2.gif" /></td>
-  </tr>
-<table>
-  
-<img alt="Epic GitHub stats. Yes I know you are reading the alt text, have a lovely day!" align="center" width="100%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=GermanBread&theme=dark" />
+A bit inactive here, because all my hobby development happens offline ;'-)
 
-## forged in hell 🔥💞💅
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GermanBread&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-Please do not use my software unless you support (or at the very least recognise) LGBTQIA+ rights.
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanBread&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=GermanBread&theme=default&hide_border=true)
